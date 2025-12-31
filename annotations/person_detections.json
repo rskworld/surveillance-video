@@ -1,0 +1,46 @@
+{
+  "video_id": "sample.mp4",
+  "total_frames": 360,
+  "fps": 30.0,
+  "detections": [
+    {
+      "frame": 0,
+      "timestamp": 0.0,
+      "persons": [
+        {
+          "id": 1,
+          "bbox": [100, 150, 200, 300],
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "frame": 30,
+      "timestamp": 1.0,
+      "persons": [
+        {
+          "id": 1,
+          "bbox": [110, 145, 210, 295],
+          "confidence": 0.93
+        }
+      ]
+    },
+    {
+      "frame": 60,
+      "timestamp": 2.0,
+      "persons": [
+        {
+          "id": 1,
+          "bbox": [120, 140, 220, 290],
+          "confidence": 0.94
+        },
+        {
+          "id": 2,
+          "bbox": [300, 200, 400, 350],
+          "confidence": 0.88
+        }
+      ]
+    }
+  ]
+}
+

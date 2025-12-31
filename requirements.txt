@@ -1,0 +1,16 @@
+# Project: Surveillance Video Dataset
+# Author: Molla Samser
+# Website: https://rskworld.in/
+# Contact: help@rskworld.in
+# Phone: +91 93305 39277
+# Address: Nutanhat, Mongolkote, Purba Burdwan, West Bengal, India, 713147
+
+opencv-python>=4.8.0
+numpy>=1.24.0
+ultralytics>=8.0.0
+Pillow>=10.0.0
+flask>=2.3.0
+flask-cors>=4.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+

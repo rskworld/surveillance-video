@@ -1,0 +1,64 @@
+# Project: Surveillance Video Dataset
+# Author: Molla Samser
+# Website: https://rskworld.in/
+# Contact: help@rskworld.in
+# Phone: +91 93305 39277
+# Address: Nutanhat, Mongolkote, Purba Burdwan, West Bengal, India, 713147
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Video files (large)
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+
+# Extracted frames (can be large)
+frames/
+output/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Logs
+*.log
+

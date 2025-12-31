@@ -1,0 +1,31 @@
+{
+  "video_id": "sample.mp4",
+  "description": "Surveillance video with activity labels",
+  "activities": [
+    {
+      "id": 1,
+      "type": "walking",
+      "start_time": 0.0,
+      "end_time": 5.2,
+      "person_id": 1,
+      "bbox": [100, 150, 200, 300]
+    },
+    {
+      "id": 2,
+      "type": "standing",
+      "start_time": 5.2,
+      "end_time": 8.5,
+      "person_id": 1,
+      "bbox": [150, 140, 250, 290]
+    },
+    {
+      "id": 3,
+      "type": "walking",
+      "start_time": 8.5,
+      "end_time": 12.0,
+      "person_id": 2,
+      "bbox": [300, 200, 400, 350]
+    }
+  ]
+}
+

@@ -1,0 +1,45 @@
+{
+  "name": "surveillance-video-dataset",
+  "version": "1.0.0",
+  "description": "Surveillance video dataset with security camera footage, activity monitoring, and anomaly detection labels for security and monitoring applications.",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "setup": "python setup.py"
+  },
+  "keywords": [
+    "surveillance",
+    "video",
+    "dataset",
+    "opencv",
+    "yolo",
+    "security",
+    "monitoring"
+  ],
+  "author": {
+    "name": "Molla Samser",
+    "website": "https://rskworld.in/",
+    "email": "help@rskworld.in",
+    "phone": "+91 93305 39277",
+    "address": "Nutanhat, Mongolkote, Purba Burdwan, West Bengal, India, 713147"
+  },
+  "license": "MIT",
+  "year": 2026,
+  "project": {
+    "id": 28,
+    "title": "Surveillance Video Dataset",
+    "category": "Video Data",
+    "difficulty": "Advanced",
+    "technologies": ["MP4", "AVI", "OpenCV", "YOLO", "Video Processing"],
+    "features": [
+      "Security camera footage",
+      "Activity labels",
+      "Person detection",
+      "Anomaly events",
+      "Ready for surveillance AI"
+    ],
+    "icon": "fas fa-video",
+    "icon_color": "text-secondary"
+  }
+}
+
